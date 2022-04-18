@@ -8,4 +8,4 @@ function running_late(date){
     }
 }
 
-module.exports = running_late;
+exports.running_late = running_late;
